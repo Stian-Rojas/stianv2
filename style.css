@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    background-image: url("backround.png");
+}
+
+.broke {
+    color: white;
+    text-align: center;
+    width: max-content;
+}
